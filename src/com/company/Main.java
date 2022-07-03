@@ -3,10 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int [][] array1 = {{1, 2, 3}, {4, 5, 6}};
-        int [][] array2 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        //  ARRAY SAMPLE
+//        int [][] array1 = {{1, 2, 3, 5}, {4, 5, 6, 2}, {0, -1, 3, 1}};
+//        int [][] array2 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}, {1, 4, 3}};
 
-        multiply(array1, array2);
+//        multiply(array1, array2);
 
     }
 
